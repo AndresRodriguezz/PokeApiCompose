@@ -1,5 +1,10 @@
 # Pokemons
 
+
+Para hacer la navegacion del deep link poner esta linea en terminal
+
+adb shell am start -d https://andres-jj.com/4/charmander
+
 <p>
 	Screens: 
   
